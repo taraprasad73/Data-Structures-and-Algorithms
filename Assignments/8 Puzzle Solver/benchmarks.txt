@@ -1,0 +1,4 @@
+graphs/easy.txt configuration took 0.002000 seconds to execute.
+graphs/medium.txt configuration took 0.000000 seconds to execute.
+graphs/hard.txt configuration took 0.001000 seconds to execute.
+graphs/worst.txt configuration took 10.896000 seconds to execute.
